@@ -1,2 +1,1 @@
-print("hello python & git rock")
-print("aaa")
+print("hello python & git")
